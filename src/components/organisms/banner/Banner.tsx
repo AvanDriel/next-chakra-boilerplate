@@ -14,7 +14,6 @@ export const Banner = ({ backgroundColor, textColor }: BannerProps) => {
       gap={6}
       backgroundColor='brand.primary'
       color='brand.tertiary'
-      my={6}
       p={8}
       borderRadius={6}
     >
