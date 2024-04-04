@@ -1,4 +1,4 @@
-# NextJs & ChakraUI Boilerplate
+# NextJs & ChakraUI Template
 
 ## Getting Started
 
